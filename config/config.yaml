@@ -1,0 +1,13 @@
+directorios:
+  entrenamiento: "./datos/datos_separados/entrenamiento"
+  validacion: "./datos/datos_separados/evaluacion"
+  prueba: "./datos/datos_separados/prueba"
+  modelo_ok: "./modelo_entrenado/modelo_entrenado.pth"
+  logs: "./logs/logs_entrenamiento.txt"
+
+entrenamiento:
+  tamano_imagen: 224
+  tamano_batch: 32
+  num_epochs: 50
+  taza_aprendizaje: 0.001
+  dropout: 0.4

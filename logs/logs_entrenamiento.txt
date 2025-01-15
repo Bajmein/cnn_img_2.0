@@ -1,0 +1,2 @@
+14-01-2025 13:45:48 | TamanoImagen: 224 | Batch: 32 | Epochs: 50 | LR: 0.0010 | DROPOUT: 0.4 | AccEntrenamiento: 0.5744 | AccValidacion: 0.7298
+14-01-2025 16:01:16 | TamanoImagen: 224 | Batch: 32 | Epochs: 50 | LR: 0.0010 | DROPOUT: 0.4 | AccEntrenamiento: 0.9287 | AccValidacion: 0.9464
